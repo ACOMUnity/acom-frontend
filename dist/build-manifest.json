@@ -5,13 +5,13 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/iW9xstRyBUgdYh335pFPP/_buildManifest.js",
-    "static/iW9xstRyBUgdYh335pFPP/_ssgManifest.js"
+    "static/nBM4hhILEKThy1CxygEi2/_buildManifest.js",
+    "static/nBM4hhILEKThy1CxygEi2/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack-c424c581f2a83501.js",
+      "static/chunks/webpack-fa41f5cf5369d854.js",
       "static/chunks/framework-2c79e2a64abdb08b.js",
       "static/chunks/main-a0dca5a2ff5035f1.js",
       "static/chunks/b637e9a5-72306854ad8c548c.js",
@@ -22,20 +22,20 @@
       "static/chunks/pages/index-4828d09a584717e4.js"
     ],
     "/_app": [
-      "static/chunks/webpack-c424c581f2a83501.js",
+      "static/chunks/webpack-fa41f5cf5369d854.js",
       "static/chunks/framework-2c79e2a64abdb08b.js",
       "static/chunks/main-a0dca5a2ff5035f1.js",
-      "static/css/04149319f69aa62f.css",
+      "static/css/402b28a6eb942f0d.css",
       "static/chunks/pages/_app-95daff819a7a3427.js"
     ],
     "/_error": [
-      "static/chunks/webpack-c424c581f2a83501.js",
+      "static/chunks/webpack-fa41f5cf5369d854.js",
       "static/chunks/framework-2c79e2a64abdb08b.js",
       "static/chunks/main-a0dca5a2ff5035f1.js",
       "static/chunks/pages/_error-8353112a01355ec2.js"
     ],
     "/blog": [
-      "static/chunks/webpack-c424c581f2a83501.js",
+      "static/chunks/webpack-fa41f5cf5369d854.js",
       "static/chunks/framework-2c79e2a64abdb08b.js",
       "static/chunks/main-a0dca5a2ff5035f1.js",
       "static/chunks/b637e9a5-72306854ad8c548c.js",
@@ -46,7 +46,7 @@
       "static/chunks/pages/blog-1fa9d932ece80dc9.js"
     ],
     "/blog/blog-details": [
-      "static/chunks/webpack-c424c581f2a83501.js",
+      "static/chunks/webpack-fa41f5cf5369d854.js",
       "static/chunks/framework-2c79e2a64abdb08b.js",
       "static/chunks/main-a0dca5a2ff5035f1.js",
       "static/chunks/b637e9a5-72306854ad8c548c.js",
@@ -57,7 +57,7 @@
       "static/chunks/pages/blog/blog-details-93fd663af00195c4.js"
     ],
     "/home-two": [
-      "static/chunks/webpack-c424c581f2a83501.js",
+      "static/chunks/webpack-fa41f5cf5369d854.js",
       "static/chunks/framework-2c79e2a64abdb08b.js",
       "static/chunks/main-a0dca5a2ff5035f1.js",
       "static/chunks/b637e9a5-72306854ad8c548c.js",
