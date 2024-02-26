@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Acom - Community and Finance</title>
+        <title>ACOMUnity AGEMS</title>
         <meta name="description" content="" />
       </Head>
 
