@@ -24,7 +24,7 @@ const CountDownTwo = () => {
       return (
         <>
           <div className="time-count day">
-            <span>{days < 60 ? "0" + days : days}</span>Days
+            <span>{days < 10 ? "0" + days : days}</span>Days
           </div>
           <div className="time-count hour">
             <span>{hours < 10 ? "0" + hours : hours}</span>hour
