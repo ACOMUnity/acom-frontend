@@ -24,7 +24,7 @@ const CountDownTwo = () => {
       return (
         <>
           <div className="time-count day">
-            <span>{days < 10 ? "0" + days : days}</span>Days
+            <span>{days < 60 ? "0" + days : days}</span>Days
           </div>
           <div className="time-count hour">
             <span>{hours < 10 ? "0" + hours : hours}</span>hour
@@ -46,7 +46,7 @@ const CountDownTwo = () => {
         <div className="row">
           <div className="col-lg-12">
             <div className="countdown-wrap">
-              <h2 className="title">ICO Will Start In..</h2>
+              <h2 className="title">IDO Will Start In..</h2>
               <div id="countdown-gampang"></div>
 
               <div className="custom-countdown-two">
